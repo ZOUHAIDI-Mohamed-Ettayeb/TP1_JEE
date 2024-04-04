@@ -1,4 +1,4 @@
-Activité 01 : : Introduction à l'Injection de Dépendances dans le cadre de l'Architecture JEE
+Activité 01 : Introduction à l'Injection de Dépendances dans le cadre de l'Architecture JEE
 
 But : Ce TP vise à explorer les principes fondamentaux de la programmation orientée objet et de l'architecture logicielle, en mettant particulièrement l'accent sur les interfaces, leur implémentation, le concept de couplage faible, ainsi que l'injection de dépendances.
 
